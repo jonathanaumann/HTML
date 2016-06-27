@@ -1,0 +1,27 @@
+.box {
+
+	height: 150px;
+	background: #654678;
+	
+	
+	
+}
+
+.content {
+
+	height: 100px;
+	background: pink;
+    align-items: center;
+padding: 20px;
+	box-shadow: 20px 2px 2px 2px rgba(0, 0, 0, 0.5);
+
+
+}
+
+.center {
+display: inline;
+	margin: 0 auto;
+	width: 50%;
+	text-align: center;
+
+}
