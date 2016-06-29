@@ -2,11 +2,16 @@ header {
 background-color: #00FFFF;
 }
 #content {
-	background-color: #C910F3;
+	background-color: black;
+	color: white;
 }
 
-img {
+.pic1 {
 	align: center;
- width: 400px;
- height: 400px;
+ width: 300px;
+ height: 300px;
+}
+
+.pic {
+	height: 100px;
 }

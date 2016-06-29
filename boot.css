@@ -12,6 +12,30 @@
     text-transform: uppercase;
 }
 
+.date {
+color: grey;
+
+}
+
+.board {
+    float: left;
+    background-color: #edeff0;
+    bottom: 0;
+    margin-left: 0px;
+    top: 0;
+    margin-bottom: -300px;
+    width: 339px;
+
+}
+
+
+hr {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    border: 0;
+    border-top: 1px solid #eee;
+}
+
 #logos {
     background-image: url(https://d78fikflryjgj.cloudfront.net/images/01ef898811a879595cea8ac3cd77a155/header-logo-2x.png);
     height: 30px;
@@ -93,6 +117,36 @@ a:-webkit-any-link {
     float: left;
 }
 
+.board-menu-header {
+        background: #e2e4e6;
+        color:#000;
+
+}
+
+.board-menu-header-close-button {
+    font-size: 1pc;
+    position: absolute;
+    top: 8px;
+    right: 6px;
+}
+.icon-lg {
+    height: 30px;
+    line-height: 30px;
+    width: 30px;
+}
+.icon-lg, .icon-sm {
+    display: inline-block;
+    font-family: trellicons;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    text-decoration: none;
+    color: #999;
+}
+
+
 .board-wrapper.is-show-menu .board-menu {
     box-shadow: 0 0 6px rgba(0,0,0,.4);
    
@@ -110,7 +164,7 @@ a:-webkit-any-link {
 
 .board-menu-header-title {
     line-height: 20px;
-    margin: 13px 30px 9pt;
+    margin: 13px 30px 0pt;
     overflow: hidden;
     text-align: center;
     text-overflow: ellipsis;
@@ -118,7 +172,7 @@ a:-webkit-any-link {
 }
 ul {
     line-height: 20px;
-    margin: 13px 30px 9pt;
+    margin: 13px 3px 9pt;
     overflow: hidden;
     text-align: center;
     text-overflow: ellipsis;
@@ -132,4 +186,6 @@ ul {
     text-decoration: none;
 }
 
+.member-avatar {
+    float: left;
 }
