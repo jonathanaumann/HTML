@@ -1,0 +1,90 @@
+form { 
+	width: 200px;
+	margin: 0 !important; 
+	padding: 0 !important; 
+	padding-left: 100px;
+}
+
+
+header {
+margin: 0px;
+
+}
+#lit {
+		margin-left: 70px;
+
+		padding-left: 0px;
+}
+
+#blank {
+	background: white;
+	background-color: white;
+	background-size: cover;
+	border: solid;
+	border-color: black;
+}
+
+#cover {
+	height: 320px;
+	width: 100%;
+    background: #FFF url(1500x500.jpg) no-repeat center top;
+    background-size: cover
+    margin: 0 auto;
+        
+   }
+}
+
+#rightlit {
+	border: solid;
+	border-width: 1px;
+	border-color: white;
+	
+	
+	
+
+}
+
+
+#header {
+	margin: 0;
+	padding: 0;
+
+}
+#broder{
+	border: solid;
+	border-width: 1px;
+	border-color: black;
+
+}
+
+#round {
+
+	border-radius: 25px;
+	border-color: snow;
+	background-color: snow;
+}
+#round1 {
+
+	border-color: snow;
+	background-color: snow;
+}
+
+.link1{
+	float: right;
+	margin-top: -23px;
+	margin-right: 190px;
+}
+
+.iconClass {
+	width: 23px;
+	height: 21px;
+
+}
+.twit {
+	background-color: snow;
+	border-width: 0px;
+}
+
+.glyphicon-search {
+	background-color: snow;
+}
